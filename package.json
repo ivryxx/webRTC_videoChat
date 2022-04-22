@@ -1,0 +1,22 @@
+{
+  "name": "webrtc_videochat",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivryxx/webRTC_videoChat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivryxx/webRTC_videoChat/issues"
+  },
+  "homepage": "https://github.com/ivryxx/webRTC_videoChat#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.9",
+    "@babel/node": "^7.16.8",
+    "nodemon": "^2.0.15"
+  }
+}
