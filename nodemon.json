@@ -1,0 +1,3 @@
+{
+    "exac": "babel-node src/server.js"
+}
